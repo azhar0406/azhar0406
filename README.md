@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azhar0406&label=Profile%20views&color=0e75b6&style=flat" alt="azhar0406" /> </p>
 
-- 🔭 I’m currently working on [Q](https://q.exchange)
+- 🔭 I’m currently working on [Qoneqt](https://qoneqt.com)
 
 - 🌱 I’m currently learning **Rust, Next.js**
 
