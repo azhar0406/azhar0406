@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Qoneqt](https://qoneqt.com)
 
-- 🌱 I’m currently learning **Rust, Next.js**
+- 🌱 I’m currently learning **Rust, EVM**
 
-- 💬 Ask me about **Solidity, React, JavaScript, PHP, NodeJS, MySQL, Linux**
+- 💬 Ask me about **Solidity, Smart Contract Auditing, React, Next.js, JavaScript, PHP, NodeJS, MySQL, Linux**
 
 - 📫 How to reach me **0xazhar@protonmail.com**
 
-- ⚡ Fun fact **I am coder and I don't drink coffee ;-)**
+- ⚡ Fun fact **I am a coder and I drink tea ;-)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
